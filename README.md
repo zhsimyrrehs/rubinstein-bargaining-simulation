@@ -16,6 +16,4 @@ Install requirements:
 ```bash
 pip install streamlit
 
-Run it: 
-
 streamlit run bargaining_simulation_streamlit.py
